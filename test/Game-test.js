@@ -41,5 +41,4 @@ describe('Game', function() {
     game.start();
     expect(game.currentRound).to.eql(round);
   });
-
 });
